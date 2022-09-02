@@ -1,0 +1,96 @@
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.json
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.exe
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.deps.json
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.json
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.dev.json
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.dll
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.pdb
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.dll
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.pdb
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.input.cache
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.output.cache
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorCoreGenerate.cache
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.Views.pdb
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.dll
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\refint\WebApplication1.dll
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\ref\WebApplication1.dll
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Doctor\Index.cshtml.g.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Doctor\DoctorKaydet.cshtml.g.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Appointment\AddAppointment.cshtml.g.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\VeriTasima\Index.cshtml.g.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\- repos\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\VeriTasima\ListeOlustur.cshtml.g.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\WebApplication1.dll
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\refint\WebApplication1.dll
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\bin\Debug\net5.0\appsettings.json
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\bin\Debug\net5.0\WebApplication1.exe
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\bin\Debug\net5.0\WebApplication1.deps.json
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.json
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.dev.json
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\bin\Debug\net5.0\WebApplication1.dll
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\bin\Debug\net5.0\WebApplication1.pdb
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.dll
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.pdb
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.input.cache
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.output.cache
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorCoreGenerate.cache
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\Razor\Views\Appointment\AddAppointment.cshtml.g.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\Razor\Views\Doctor\DoctorKaydet.cshtml.g.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\Razor\Views\Doctor\Index.cshtml.g.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\WebApplication1.Views.pdb
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\ref\WebApplication1.dll
+C:\Users\Rabia\Documents\Fax\- MTNY\Git-MuhammedTanay\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete

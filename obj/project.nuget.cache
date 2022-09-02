@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "We8a0n2KJ9ZsOq0KAp6OW5ZugunbgTScagJbpxXhtdStSag6bgjYY8BrzaxDC6ia7q9q3+wzotJ/4jQyArXW1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rabia\\Documents\\Fax\\- MTNY\\Git-MuhammedTanay\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rabia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
