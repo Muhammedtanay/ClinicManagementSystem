@@ -28,4 +28,6 @@ namespace WebApplication1.controller
             return " \r\n" + Request.QueryString.Value + " \r\n" + Request.Query["isim"] + " \r\n" + Request.Query["yas"] ;
         }
     }
-}
+    {
+    public string  RequestNoktaQueryString()
+    }
