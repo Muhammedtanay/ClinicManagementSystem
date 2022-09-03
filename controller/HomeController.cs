@@ -81,3 +81,8 @@ namespace WebApplication1.controller
         }
     }
 }
+// GET: HomeController/Details/5
+        public ActionResult Details(int id)
+        {
+            return View();
+        }
