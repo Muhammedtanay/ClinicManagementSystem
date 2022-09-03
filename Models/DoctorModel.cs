@@ -4,4 +4,7 @@
     {
         public int DoctorId { get; set; }
     }
-}
+} 
+  {
+ public  class  DoctorModel 
+     }
