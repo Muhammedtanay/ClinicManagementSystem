@@ -31,3 +31,16 @@ namespace WebApplication1.controller
     {
     public string  RequestNoktaQueryString()
     }
+public string QueryStringDataBinding(string isim, int yas)
+        {
+            return isim + " " + yas;
+        }
+      
+        public string  RequestNoktaQueryString()
+        {
+            return " \r\n" + Request.QueryString.Value + " \r\n" + Request.Query["isim"] + " \r\n" + Request.Query["yas"] ;
+        }
+    }
+    {
+    public string  RequestNoktaQueryString()
+    }
