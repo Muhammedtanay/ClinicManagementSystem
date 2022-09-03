@@ -33,6 +33,7 @@ namespace WebApplication1
             {
                 app.UseDeveloperExceptionPage();
             }
+            public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
             else
             {
                 app.UseExceptionHandler("/Error");
