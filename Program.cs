@@ -23,5 +23,5 @@ namespace WebApplication1
                     webBuilder.UseStartup<Startup>();
                 });
     }
-
-}
+   public static IHostBuilder  CreateHostBuilder(string[]   args  =>
+   } 
