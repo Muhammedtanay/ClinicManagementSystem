@@ -44,3 +44,11 @@ public string QueryStringDataBinding(string isim, int yas)
     {
     public string  RequestNoktaQueryString()
     }
+public string  RequestNoktaQueryString()
+        {
+            return " \r\n" + Request.QueryString.Value + " \r\n" + Request.Query["isim"] + " \r\n" + Request.Query["yas"] ;
+        }
+    }
+    {
+    public string  RequestNoktaQueryString()
+    }
