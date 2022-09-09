@@ -86,3 +86,15 @@ namespace WebApplication1.controller
         {
             return View();
         }
+catch
+            {
+                return View();
+            }
+        }
+    }
+}
+// GET: HomeController/Details/5
+        public ActionResult Details(int id)
+        {
+            return View();
+        }
