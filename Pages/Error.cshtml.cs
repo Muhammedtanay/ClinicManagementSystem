@@ -41,3 +41,10 @@ public ErrorModel(ILogger<ErrorModel> logger)
         }
     }
 }
+public void OnGet()
+        {
+            RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier;
+        }
+    }
+}
+
